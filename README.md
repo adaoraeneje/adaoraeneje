@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adaoraeneje
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning html,css and JavaScript
+- 👀 I’m interested in UI/UX
+- 🌱 I’m currently learning and mastering Figma
 - 💞️ I’m looking to collaborate on GitHub with new people
 - 📫 How to reach me via email @adaoraeneje@gmail.com
 
