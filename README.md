@@ -54,7 +54,7 @@ I started this journey because I believe technology should be both functional an
 
 ---
 
-## 🔭 Currently Working On
+## Currently Working On
 
 -  Building my design/dev portfolio on GitHub Pages
 -  Turning UI designs into responsive HTML/CSS layouts
