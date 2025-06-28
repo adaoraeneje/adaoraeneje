@@ -34,8 +34,8 @@ I’m part of the **ALX Software Engineering program** and **ProDev Front-End** 
 | Project | What it is | Status |
 |--------|------------|--------|
 | About Me Website | My first fully coded personal website | `in progress` |
-| Bash Script Tasks | ALX command-line challenges | ✅ completed |
-| Figma Mockups | UI design concepts & components | 🖌️ designing |
+| Bash Script Tasks | ALX command-line challenges |  completed |
+| Figma Mockups | UI design concepts & components |  designing |
 
 Live links coming soon via **GitHub Pages** 
 
@@ -75,6 +75,6 @@ Live links coming soon via **GitHub Pages**
 
 ---
 
-🖊*“Design is thinking made visual. Code is how you make it come alive.”*  
+*“Design is thinking made visual. Code is how you make it come alive.”*  
 Thanks for stopping by 
 
